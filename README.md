@@ -4,3 +4,4 @@ Team Acropora of OpenAI Climate Hackathon building a NLP tool for renewable ener
 
 ## How To Use
 * to run frontend application, cd into frontend directory and run npm install and npm run start in the cmd
+* to run backend, activate virtual environment then run python manage.py runserver 
