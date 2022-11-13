@@ -1,5 +1,0 @@
-===
-Context: {{query_context}}
-===
-Q: {{query}}
-A:
