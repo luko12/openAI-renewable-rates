@@ -15,7 +15,8 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from backend.views import AcroporaView
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
+    path('openAI', AcroporaView.as_view())
 ]

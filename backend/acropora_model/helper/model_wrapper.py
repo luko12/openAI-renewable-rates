@@ -1,4 +1,4 @@
-from climate_engine import ClimateEngine
+from backend.acropora_model.helper.climate_engine import ClimateEngine
 import pandas as pd
 import numpy as np
 import openai
@@ -6,7 +6,7 @@ import openai
 class ModelWrapper:
     def __init__(self, key, 
                  search_model_name = 'babbage', answer_model = 'text-davinci-002',
-                 embed_loc='docs/embed/{}/', folder_template = 'template/ready/samples/'):
+                 embed_loc='backend/acropora_model/docs/embed/{}/', folder_template = 'backend/acropora_model/template/ready/samples/'):
         # prepare the engine
         openai.api_key = key
         self.kube = ClimateEngine(openai)
