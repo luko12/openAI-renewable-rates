@@ -54,7 +54,7 @@ class ModelWrapper:
 
         illi_dict = {'state': df_il_state, 'comed': df_il_ComEd, 'ameren': df_il_Ameren}
         jersy_dict = {'state': df_nj_state, 'jcp&l': df_nj_JCP, 'ace':df_nj_ACE}
-        self.df_look_up = {'IL':illi_dict, 'NJ':jersy_dict}
+        self.df_look_up = {'il':illi_dict, 'nj':jersy_dict}
     
     def load_templates(self):
         # read all templates
@@ -73,15 +73,18 @@ class ModelWrapper:
     
         # fix
         if utility == 'N/A': utility = 'state'
+        
+        state = state.lower()
+        utility = utility.lower()
 
         # validation
-        assert state in ['IL', 'NJ']
-        assert utility in ['state', 'JCP&L', 'ComEd', 'Ameren', 'ACE', ]
+        assert state.lower() in ['il', 'nj']
+        assert utility.lower() in ['state', 'jcp&l', 'comed', 'ameren', 'ace', ]
 
         if template == 'main':
             template = ''+self.template_main
         else:
-            template = ''+self.template_nj if state == 'NJ' else ''+self.template_il
+            template = ''+self.template_nj if state == 'nj' else ''+self.template_il
 
 
         # get the dataframe 
