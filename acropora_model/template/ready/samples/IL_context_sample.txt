@@ -1,0 +1,45 @@
+===
+Context: Illinois Power Agency  2022 Long-Term Plan (Final)  August 23, 2022           Table 7-5: Proposed ABP REC Prices ($/REC) for Delivery Year 2022-23349   Block Category/Size   Group A  Group B      (Ameren Illinois,  (ComEd, and Rural   MidAmerican, Mt. Carmel,  Electric Cooperatives   Rural Electric Cooperatives,  and Municipal Utilities   and Municipal Utilities  located in PJM)   located in MISO)   ≤10 kW  $78.51  $82.28   Small DG   >10 - 25 kW  $66.39  $71.89   >25 - 100 kW  $57.94  $62.23   >100 - 200 kW  $58.85  $59.02   Large DG   >200 - 500 kW  $52.35  $53.11      >500 - 2,000 kW  $50.42  $47.63   >2,000 kW – 5,000 kW  $40.90  $33.31   ≤ 25 kW  $74.95  $81.16   >25 - 100 kW  $65.57  $70.42   Public   >100 - 200 kW  $66.40  $66.59   Schools   >200 - 500 kW  $58.94  $59.81   (20 years)   >500 - 2,000 kW  $56.73  $53.59   >2,000 kW – 5,000 kW  $45.72  $37.23   ≤ 25 kW  $56.23  $61.54   >25 - 100 kW  $59.19  $64.39   Traditional   Community  >100 - 200 kW  $60.85  $65.23   Solar  >200 - 500 kW  $57.22  $62.09   (20 years)   >500 - 2,000 kW  $51.32  $55.50   >2,000 kW – 5,000 kW  $45.50  $47.78   ≤ 25 kW  $71.60  $78.27   Community- >25 - 100 kW  $75.34  $82.16   Driven  >100 - 200 kW  $77.27  $83.42   Community  >200 - 500 kW  $72.47  $79.19   Solar  >500 - 2,000 kW  $64.76  $70.12   >2,000 kW – 5,000 kW  $56.85  $59.44      Note that as discussed in Section 7.4.6, for this 2022 Long-Term Plan the Agency is not proposing   separate prices for projects in Equity Eligible Contractor category. Those projects will instead feature   the opportunity for the advance of capital. Equity Eligible Contractor projects would use the   applicable REC price for distributed generation or community-driven community solar (as they      349 These prices are consistent with those published by the Agency on August 1, 2022.     180
+===
+Q: What is the REC value for a 1.2MW commercial rooftop solar project in ComEd IL?
+A: $47.63[end]
+---
+Q: What is the price of a REC for a 250KW solar rooftop project on a public elementary school in Ameren IL?
+A: $58.94[end]
+---
+Q: How much is a REC worth for a 10 KW residential rooftop in ComEd IL?
+A: $82.28[end]
+---
+Q: What is the REC value for a 3.4MW solar project in MidAmerican IL?
+A: $40.90[end]
+---
+Q: What is the price of a REC for a 2.8MW community solar project in Ameren IL?
+A: $45.50[end]
+---
+Q: What is the value of a REC produced from a 2MW commercial solar system in ComEd IL?
+A: $47.63[end]
+---
+Q: What's a REC worth from a 2300kW commercial system in IL?
+A: A REC is valued at $40.90/MWh for Utilities located in MISO (e.g., Ameren) and $33.31/MWh for Utilities in PJM (e.g., ComEd).[end]
+---
+Q: What's a REC worth from a 2000kW system at a school in IL?
+A: A REC is valued at $56.73/MWh for Utilities located in MISO (e.g., Ameren) and $53.59/MWh for Utilities in PJM (e.g., ComEd).[end]
+---
+Q: Please provide the REC price of a 25kW array behind a Muni in PJM.
+A: $71.89[end]
+---
+Q: Please provide the REC price of a 26kW project behind a Coop in MISO.
+A: $57.94[end]
+===
+Context: ILL. C. C. No. 10   Commonwealth  ELECTRICITY  2nd Revised Sheet No. 299   Edison Company    (Canceling 1st Revised Sheet No. 299)      RIDER POGNM   PARALLEL OPERATION OF RETAIL CUSTOMER GENERATING FACILITIES WITH NET METERING      *    (Continued from Sheet No. 298.2)        CREDITS AND COMPENSATION.   A retail customer served hereunder with an NM1 classification, as described in the Service Classifications   section of this rider, is provided an energy credit, in kWhs, by the Company for the net output provided to   the Company by the retail customer during the monthly billing period.  Such energy credit is allowed to   accrue during the course of the current annual period.  Accrued energy credits offset net kWhs, on a one   to one (1:1) basis, supplied to the retail customer by the Company in subsequent monthly billing periods   during such current annual period.  Such energy credits are applied in conjunction with the computation of   charges determined in accordance with the provisions of the Purchased Electricity Charge subsection, the   PJM Services Charge subsection, and the PEA Factor subsection of the Monthly Charges section of Rate   BES.  Accrued energy credits expire at the earliest of the (a) end of the current annual period, (b) date that   the retail customer terminates service from the Company under Rate BES, or (c) date that the retail   customer terminates service under this rider.      A retail customer served hereunder with an NM1 or NM3 classification, as described in the Service   Classifications section of this rider, is provided a delivery credit, in kWhs, by the Company for the net   output provided to the Company or RES, as applicable, and delivered to the Company's distribution   system by the retail customer during the monthly billing period.  Such delivery credit is allowed to accrue   during the course of the current annual period.  Accrued delivery credits offset net kWhs, on a 1:1 basis,   delivered to the retail customer by the Company in subsequent monthly billing periods during such current   annual period.  Such delivery credits are applied only with respect to ICC-jurisdictional delivery service   charges and other generally applicable charges applicable to kWhs delivered to the retail customer during   the monthly billing period.  Such delivery credits are applied in conjunction with the computation of charges   determined in accordance with the provisions of the Distribution Facilities Charge subsection and the   Other Generally Applicable Charges subsection, as applicable, and the Illinois Electricity Distribution Tax   Charge subsection of the Monthly Charges section of Rate BES or the Monthly Charges section of the   Rates and Charges part of Rate RDS, as applicable.  Accrued delivery credits expire at the earlier of the   (a) end of the current annual period or (b) date that the retail customer terminates service under this rider.    (Continued on Sheet No. 300)      Filed with the Illinois Commerce Commission on  Date Effective:  December 10, 2018   December 7, 2018.  Filed pursuant to the     Issued by T. R. Donnelly, President and COO   Illinois Commerce Commission Order dated    Post Office Box 805379   November 26, 2018, in Docket No. 18-0753.
+===
+Q: How does net metering compensation work for NM1 customers?
+A: An NM1 retail customer is provided an energy credit, in kWhs, by ComEd for the net output provided to the Company by the retail customer during the monthly billing period, which may accrue over the current annual period. Accrued credits offset net kWhs, on a one to one (1:1) basis, supplied to the retail customer in subsequent months, during the current annual period.[end]
+---
+Q: What is the compensation mechanism for exported solar power for a customer supplied by an RES at a fixed rate?
+A: Since this customer would classify as an NM3 retail customer, they would receive a 1:1 volumetric delivery credit (in kWh) for excess power (i.e., net output) provided to the RES. Such volumetric credit may be rolled over to subsequent months within the annual period.[end]
+===
+Context: {{query_context}}
+===
+Q: {{query}}
+A:

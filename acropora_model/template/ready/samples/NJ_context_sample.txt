@@ -1,0 +1,45 @@
+===
+Context: Incentive Value   Size  Incentive Value  for Public   Market Segment   (MWdc)  ($/SREC-II)  Entities   ($/SREC-II)   Net Metered Residential    All types and sizes  $90  N/A   Small Net Metered Non-Residential on  Projects smaller than 1   $100  $120   Rooftop, Carport, Canopy and Floating Solar   MW   Large Net Metered Non-Residential on  Projects 1 MW   $90  $110   Rooftop, Carport, Canopy and Floating Solar   to 5 MW   Small Ground Mount Net Metered Non- Projects smaller than 1   $85  $105   Residential   MW   Large Ground Mount Net  Metered Non- Projects 1 MW   $80  $100   Residential   to 5 MW   Community Solar Non-LMI  Up to 5 MW  $70  N/A   Community Solar LMI  Up to 5 MW  $90  N/A   Interim Subsection (t)  All types and sizes  $100  N/A   The Competitive Solar Incentive (CSI)    The Competitive Solar Incentive Program is a new program designed for grid supply projects and commercial and   industrial net metered projects larger than 5 MW. Incentive values will be determined through a competitive solicitation   process that awards capacity to projects with the lowest cost bids. This approach will leverage competition to ensure   the lowest possible ratepayer contribution, particularly for large projects benefitting from economies of scale, while   ensuring solar projects continue receiving the incentives they need to build.   Program Launch: The first competitive solicitation is targeted for early-to-mid 2022, following additional stakeholder   engagement throughout this summer and fall.       A Look-back: Solar in New Jersey     New Jersey has supported solar since the initial Renewable Portfolio Standard established in 1999 by the Electric   Discount and Energy Competition Act (EDECA). Over time, New Jersey’s solar industry has grown and matured, now   providing nearly 5,400 jobs.     New Jersey is currently 7th in the nation for installed solar capacity, and 1st for installed solar per square mile.     Why create a new incentive program? While the prior Solar Renewable Energy Certificate (SREC) Program has been   successful at driving high numbers of solar installations in the state, it is expensive in part due to its “one-size-fits-  all” structure and the financial uncertainty inherent in its variable, market-driven incentive values.      The SuSI Program will provide incentives tailored to the needs of different projects, thereby enabling the continued   growth of the solar industry at a lower cost to ratepayers.
+===
+Q: What is the REC value for a 1.2MW commercial rooftop solar project in PSEG NJ?
+A: $90[end]
+---
+Q: What is the price of a REC for a 400kW commercial carport solar project in ACE NJ?
+A: $100[end]
+---
+Q: What is the REC value for a 1.2MW public school solar project in ACE NJ?
+A: The REC value is $100/MWh for ground-mounted projects and $110/MWh for rooftop, canopoy and other structures.[end]
+---
+Q: What is the price of a REC for a 0.6MW rooftop solar project on an NJ government building?
+A: $120[end]
+---
+Q: What is the REC incentive value for a 30kW residential project in NJ?
+A: $90[end]
+---
+Q: What's the price of a REC produced from a 2300kW carport commercial system in NJ?
+A: $90[end]
+---
+Q: What's the price of a REC produced from a 2300kW ground-mounted commercial system in NJ?
+A: $80[end]
+---
+Q: What's the NJ REC price for a 2.3MW non-residential project?
+A: For private entities, the REC value is $80/MWh for ground-mounted projects and $90/MWh for rooftop, canopoy and other structures. For public entities, REC prices are $100/MWh and $110/MWh for these configurations, respectively.[end]
+---
+Q: Please quote the REC value for a 1000kW industrial ground-mounted system.
+A: $80[end]
+===
+Context: JERSEY CENTRAL POWER Cogeneration and Small Power Production Service      AVAILABILITY:  Rider QFS specifies the conditions under which the Company will purchase electricity   from a "Qualifying Facility" ("QF") under Section 210 of the Public Utilities Regulatory Policies Act of 1978.   Rider QFS is available to customers taking service under Service Classifications GS, GST, GP and GT.   QF installations must conform to, and are responsible for all costs associated with, the Company's General   Interconnect  Requirements  for  Customer's  Generation,  according  to  any  applicable  installation   specifications. (See Part II, Section 10)      QF INSTALLATIONS WITH MORE THAN 1000 KW GENERATING CAPACITY     Such installations shall negotiate with the Company for specific contract arrangements to determine the   price, term and conditions to delivered energy and capacity, where applicable; provided however, that in   no event shall payments to the QF installation under this tariff exceed the revenues the Company receives   from PJM (or its successor), net of PJM penalties and charges. Such contracts are subject to BPU   approval.      QF INSTALLATIONS WITH 1000 KW OR LESS GENERATING CAPACITY       Service Charge: $40.00 monthly       Energy Payment: Based on actual real-time PJM load weighted average Residual Metered Load   Aggregate Locational Marginal Price (LMP) for the JCP&L Transmission Zone at the time when the QF   installation delivers energy to the Company.      Capacity Payment: Deliveries from a QF installation that qualify as a PJM Capacity Resource may   receive capacity payments when the installed capacity of the QF installation exceeds 100 kW and meets   the reliability criteria set forth in PJM Manual 18 (See www.pjm.com), as it may change from time to time.   The Capacity Payment, if and as applicable, will be equal to the capacity revenues that the Company   receives from PJM for selling such capacity into the Reliability Pricing Model (RPM) capacity auction prior   to delivery, adjusted for all other PJM penalties and charges assessed to the Company by PJM arising   from, among other things, non-performance or unavailability of the QF installation. QF installations   requesting capacity payments must execute an agreement with the Company authorizing the Company   to offer such capacity into the PJM market, including terms and conditions of such sale, and including any   required security. Any losses experienced by the Company resulting from a QF installation’s failure to   perform shall be recovered under its Non-utility Generation Charge.      Energy Payment and Capacity Payment, if any, net of Service Charge, shall be determined monthly on   an after-the-fact basis, and made within 90 days of the QF meter reading date.
+===
+Q: What is the rate of power that a 2MW ground mount system will receive from JCP&L?
+A: The energy payment is based on real-time PJM load weighted average Residual Metered Load Aggregate LMP for the JCP&L Transmission Zone.[end]
+---
+Q: Does JCP&L charge costs for interconnection or metering of a 10KW residential rooftop solar system?
+A: Qualifying Facility (QF) customers shall pay all metering equipment and interconnection costs as required by JCP&L and/or by PJM.[end]
+---
+Q: Does Jersey Central Power & Light charge a fee to net-meter?
+A: There is a $40.00 monthly service charge to JCP&L for Qualifying Facilities (QF) less than 1000 KW generating capacity, and negotiatiable for systems greater than 1000 KW.[end]
+===
+Context: {{query_context}}
+===
+Q: {{query}}
+A:
