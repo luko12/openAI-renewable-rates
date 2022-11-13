@@ -16,17 +16,12 @@ function App() {
   const search = async () => {
     setLoading(true)
     console.log('question:', question, 'state:', appState, 'utility:', appUtility)
-    const response = await fetch("http://127.0.0.1:8000/openAI",
+    const response = await fetch("http://127.0.0.1:8000/openAI/what_is_community_solar/NJ/state",
     {
       method: "GET",
-      body: JSON.stringify({
-        "question": question,
-        "state": appState,
-        "utility": appUtility
-      })
     })
     setLoading(false)
-    console.log(response)
+    console.log('response:', response, 'body:', response.body)
   }
 
   return (
