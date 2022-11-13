@@ -6,16 +6,19 @@ from rest_framework import status
 
 class AcroporaUtilities:
 
-    def get_answer(question: str, state: str, utility: str) -> Response:
+    def __init__(self):
+        # key = "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"
+        key = "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"
+        self.model = ModelWrapper(key)
 
-        key = "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"
-        model = ModelWrapper(key)
+    def get_answer(self, question: str, state: str, utility: str) -> Response:
 
+        
         # call answer model
         # template_main, template_il, template_nj
         # question = "What is the REC value for a 1.2MW commercial rooftop solar project in ComEd IL?"
         # answer, reference = model.get_answer(question, 'IL', 'state')
-        answer, reference = model.get_answer(question, state, utility)
+        answer, reference = self.model.get_answer(question, state, utility, template="")
         
         response_data = {
             "answer": answer,
