@@ -18,7 +18,7 @@ function App() {
     console.log('question:', question, 'state:', appState, 'utility:', appUtility)
     const response = await fetch("http://127.0.0.1:8000/openAI",
     {
-      method: "GET",
+      // method: "GET",
       body: JSON.stringify({
         "question": question,
         "state": appState,
