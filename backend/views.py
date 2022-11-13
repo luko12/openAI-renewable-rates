@@ -9,7 +9,6 @@ from backend.utilities import AcroporaUtilities
 class AcroporaView(APIView):
 
     def get(self, request: Request) -> Response:
-        print("REQUEST DATA:", request.data.get("name"))
         return AcroporaUtilities.get_answer(
             request.data.get("question"),
             request.data.get("state"),
