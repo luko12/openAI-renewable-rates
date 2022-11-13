@@ -3,13 +3,16 @@ sys.path.append( 'helper/')
 from backend.acropora_model.helper.model_wrapper import ModelWrapper
 from rest_framework.response import Response
 from rest_framework import status
+import environ
+
+# Initialise environment variables
+env = environ.Env()
+environ.Env.read_env()
 
 class AcroporaUtilities:
 
     def __init__(self):
-        # key = "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"
-        key = "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"
-        self.model = ModelWrapper(key)
+        self.model = ModelWrapper(env("OPENAI_KEY"))
 
     def get_answer(self, question: str, state: str, utility: str) -> Response:
 
