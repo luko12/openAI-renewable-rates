@@ -11,9 +11,9 @@ class AcroporaView(APIView):
     def __init__(self):
         self.utility = AcroporaUtilities()
 
-    def get(self, request: Request, question: str, state: str, utility: str) -> Response:
+    def get(self, request: Request, state: str, utility: str) -> Response:
         return self.utility.get_answer(
-            question.replace("_", " "),
+            request.headers.get("question", ""),
             state,
             utility
         )

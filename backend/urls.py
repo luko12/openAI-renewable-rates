@@ -18,5 +18,5 @@ from django.urls import path
 from backend.views import AcroporaView
 
 urlpatterns = [
-    path('openAI/<str:question>/<str:state>/<str:utility>', AcroporaView.as_view())
+    path('openAI/<str:state>/<str:utility>', AcroporaView.as_view())
 ]
